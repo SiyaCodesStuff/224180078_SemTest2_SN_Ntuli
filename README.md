@@ -1,5 +1,7 @@
 # ShopEZ - React Native (Expo) App
 
+## You may use the firebase config within the app or create your own firebase database by following the instructions below:
+
 ## Quick setup
 1. Clone / extract project.
 2. Run `npm install` or `yarn` to install dependencies.
@@ -29,3 +31,4 @@
 npm install @react-navigation/native @react-navigation/native-stack \
 firebase @react-native-async-storage/async-storage \
 react-native-screens react-native-safe-area-context react-native-gesture-handler
+
